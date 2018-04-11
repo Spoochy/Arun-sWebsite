@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <title>My Website.</title>
+    
+    <meta charset="utf-8">
+    
+    <link rel="stylesheet" type="text/css" href="Support.css"
+    
+</head>
+
+<body>
+    <h2> 
+        Hi There Man...
+    </h2>
+    
+    <p>
+        Welcome To My Site.
+    </p>
+    
+    <a href="http://google.com/" target="_blank">
+        Go To Google
+    </a>
+    
+    <img src="Images/Pepsi.png" width="150" height="150">
+    
+</body>
+
+</html>
